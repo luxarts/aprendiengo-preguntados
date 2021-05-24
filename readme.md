@@ -41,5 +41,5 @@ Respondiste 6 preguntas correctas de 10.
 
 ## Ejemplo de uso
 ```
-quiz -f preguntas.csv -t 10
+preguntados -f preguntas.csv -t 10
 ```
