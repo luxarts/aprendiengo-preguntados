@@ -1,7 +1,7 @@
 # Preguntados
 
 ## Objetivo
-Hacer un programa que haga preguntas y el usuario deba seleccionar la opción correcta.
+Hacer un programa que haga preguntas y el usuario deba seleccionar la opción correcta entre 4 disponibles.
 Al final del programa se mostrarán los resultados obtenidos. Por ejemplo:
 
 ```
